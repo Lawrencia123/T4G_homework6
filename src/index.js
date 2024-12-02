@@ -14,5 +14,7 @@ let remainder = 15 % 4;
 console.log(remainder); 
 let student = false;
 console.log(student);
-let x = 5
-console.log()
+let variable = 5;
+console.log(typeof(variable));
+let variable = "Hey there"
+console.log(typeof(variable))
